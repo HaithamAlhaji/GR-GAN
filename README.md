@@ -1,4 +1,4 @@
-# GR-GAN
+# GR-GAN (1)
 
 Pytorch implementation for reproducing GR-GAN results in the paper [GRADUAL REFINEMENT TEXT-TO-IMAGE GENERATION](https://arxiv.org/abs/2205.11273)
 
